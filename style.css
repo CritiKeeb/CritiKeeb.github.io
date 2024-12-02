@@ -92,3 +92,14 @@ footer {
     color: #777;
     margin-top: 30px;
 }
+
+/* Image Styling */
+.image-class {
+  width: 100%; /* Makes image responsive */
+  max-width: 500px; /* Sets a maximum width */
+  height: auto; /* Maintains aspect ratio */
+  margin: 10px auto; /* Adds spacing */
+  display: block; /* Centers the image */
+  border-radius: 10px; /* Rounds corners (optional) */
+}
+
